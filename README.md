@@ -63,8 +63,6 @@ A sub committee based smart blood bank management system.
 * PHP MySQL based application.
 * Free to use for any non profitable organization.
 * For any Installation Support or Technical support contact on  +91 9061431496 via WhatsApp.
-* Data will be protected on your own server, we will not have access to your data.
-* Software will updated on future considering your feedbacks.
 * Do not remove any credit shown in the entire software.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
