@@ -11,13 +11,10 @@ class Committees extends CI_Controller {
 		ini_set("memory_limit", "-1");
 		date_default_timezone_set('Asia/Kolkata');
 		$this->load->model('Misc_model','Misc');
-
 		$this->load->library('Management','management');	
-
 		$this->load->model('User_model','User');
 		$this->load->model('Committees_model','Committees');
 		$this->load->model('Donations_model','Donations');
-
 
 		$this->load->model('Settings_model', 'Settings');
 		$maintanance_mode = $this->Settings->select_setting_config('*',array('s.setting_name' => 'maintanance_mode' ))->row()->value;

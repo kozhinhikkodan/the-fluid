@@ -11,7 +11,7 @@ $db['default'] = array(
 	// LOCAL
 
 	'hostname' => 'localhost',
-	'database' => 'the-fluid',
+	'database' => 'albedo_thefluid',
 	'username' => 'root',
 	'password' => '',
 	'dbdriver' => 'mysqli',
